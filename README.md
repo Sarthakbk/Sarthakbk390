@@ -28,5 +28,5 @@ I thrive on transforming ideas into seamless digital experiences and collaborati
 
 ---
 
-## Fun Fact
+## Additional
 I channel the **strategy and teamwork** from cricket and cycling into my software projects, ensuring efficiency, collaboration, and high-quality outcomes.
